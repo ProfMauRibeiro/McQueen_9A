@@ -2,6 +2,7 @@
 
 
 Projeto do protótipo robótico de um veículo autonomo simples. Nesse repositório estão listados os materiais, esquema de montagem e também o código de programação do arduino.
+O esquema principal é apresentado aqui, a versão da montagem foi mudada considerando sugestões de uma aluna do 9A do Colégio Helena Dionysio da Cidade de Curitiba/Paraná.
 ## Materiais
 
 |  Quantidade  |  Modelo  | Breve Decrição |
