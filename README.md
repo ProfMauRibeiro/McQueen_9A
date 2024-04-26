@@ -1,4 +1,4 @@
-# McQueen_9A_V01
+# McQueen_9A_V02
 
 
 Projeto do protótipo robótico de um veículo autonomo simples. Nesse repositório estão listados os materiais, esquema de montagem e também o código de programação do arduino.
